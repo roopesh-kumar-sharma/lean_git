@@ -1,6 +1,6 @@
 #This is  sample code for git practise
 users=[]
-print("Welcome To the College")
+print("Welcome To the Islington College")
 user_continue='yes'
 
 name=input("Enter your name").lower
